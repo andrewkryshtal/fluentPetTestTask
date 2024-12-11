@@ -214,7 +214,8 @@ const styles = StyleSheet.create({
     marginTop: 50,
   },
   formContainer: {
-    marginBottom: 16,
+    marginTop: 30,
+    marginBottom: 20,
   },
   input: {
     borderWidth: 1,
