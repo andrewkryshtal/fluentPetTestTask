@@ -1,9 +1,9 @@
 export type Pet = {
-  id: string;
+  id?: string;
   name: string;
-  age: string;
-  image?: string;
+  age: number;
   description?: string;
+  photo?: string;
 };
 
 export type RootStackParamList = {
